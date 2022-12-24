@@ -1,0 +1,12 @@
+﻿@using AdminPanel.DbModels
+@model Teachers
+
+
+    <div class="scroll_img">  
+        <img src="@Model.TeacherPicturePath" alt="photo"></img>
+
+    </div>
+    <a href="@Url.ActionLink("IndexTeacher", "Teacher")"><h5 class="scroll_title">@Model.Name</h5></a>
+    <p class="scroll_text">@Model.Lessons</p>
+    <p class="scroll_text">@Model.Description</p>
+
