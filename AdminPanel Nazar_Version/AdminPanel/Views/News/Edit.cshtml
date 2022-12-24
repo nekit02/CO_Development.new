@@ -1,0 +1,27 @@
+﻿@model News
+
+<table class="main_table" border="1">
+    <tr>
+        <th class="news-name">Наименнование новости</th>
+        <th class="news-description">Описание новости</th>
+        <th class="news-save"></th>
+    </tr>
+    <tr class="news">
+        @using (Html.BeginForm("Edit"))
+        {
+            <input type="hidden" name="Id" value="@Model.Id" />
+            <td><input type="text" name="Name" class="news-name_td" value="@Model.Name"></td>
+            <td><textarea name="Description" id="" cols="30" rows="10">@Model.Description</textarea></td>
+            <td><input class="input_submit" type="submit" value="Сохранить изменения"></td>
+        }
+    </tr>
+</table>
+@using (Html.BeginForm("DeleteNews", "News", new { }))
+{
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <input class="input_submit" type="submit" value="Удалить новость">
+}
+
+
+
+
