@@ -1,0 +1,28 @@
+﻿@using AdminPanel.DbModels
+@model List<Teachers>
+
+    
+    <section class="scroll">
+        @foreach (var teachers in Model){
+            <div class="container">              
+                <form asp-controller="Teacher" asp-action="DeleteTeacher" method="post">          
+                    <input type="hidden" name="Id" value="@teachers.Id" />
+                <input class="input_submit" type="submit" value="Уволить учителя">
+                </form>
+                <div class="scroll_wrapper">
+                    <div class="scroll_item">
+                        <div class="scroll_img">
+                            <img src="@teachers.TeacherPicturePath" alt="photo">
+                        </div>
+                        <a href="@Url.ActionLink("TD", "Teacher", new {TeachersId = teachers.Id})"><h5 class="scroll_title">@teachers.Name</h5></a>
+                        <p class="scroll_text">@teachers.Lessons</p>                 
+                        <a href="@Url.ActionLink("EditTeacher", "Teacher", new{teacherId = teachers.Id})">Редактировать учителя</a>  
+                       
+                </div> 
+                </div>
+                </div>
+        }
+    <section/>
+
+    
+
