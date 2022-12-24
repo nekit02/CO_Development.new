@@ -1,0 +1,169 @@
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\appsettings.Development.json
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\appsettings.json
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\AdminPanel.staticwebassets.runtime.json
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\AdminPanel.exe
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\AdminPanel.deps.json
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\AdminPanel.runtimeconfig.json
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\AdminPanel.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\AdminPanel.pdb
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Humanizer.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\MySqlConnector.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.AssemblyReference.cache
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfoInputs.cache
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfo.cs
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CoreCompileInputs.cache
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.MvcApplicationPartsAssemblyInfo.cache
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cache
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cs
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\staticwebassets.build.json
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\staticwebassets.development.json
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\scopedcss\bundle\AdminPanel.styles.css
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\scopedcss\projectbundle\AdminPanel.bundle.scp.css
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CopyComplete
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.dll
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\refint\AdminPanel.dll
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.pdb
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\AdminPanel.genruntimeconfig.cache
+E:\c# trainig\AdminPanel\obj\Debug\net6.0\ref\AdminPanel.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\c# trainig\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\appsettings.Development.json
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\appsettings.json
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.staticwebassets.runtime.json
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.exe
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.deps.json
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.runtimeconfig.json
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.pdb
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Humanizer.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\MySqlConnector.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.AssemblyReference.cache
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfoInputs.cache
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfo.cs
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CoreCompileInputs.cache
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.MvcApplicationPartsAssemblyInfo.cache
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cache
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cs
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\staticwebassets.build.json
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\staticwebassets.development.json
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\scopedcss\bundle\AdminPanel.styles.css
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\scopedcss\projectbundle\AdminPanel.bundle.scp.css
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CopyComplete
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.dll
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\refint\AdminPanel.dll
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.pdb
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.genruntimeconfig.cache
+E:\AdminPanel\AdminPanel\obj\Debug\net6.0\ref\AdminPanel.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\MailKit.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\MimeKit.dll
+E:\AdminPanel\AdminPanel\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\appsettings.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.staticwebassets.runtime.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.exe
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.deps.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.runtimeconfig.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.pdb
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\MailKit.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cache
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cs
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\scopedcss\bundle\AdminPanel.styles.css
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\scopedcss\projectbundle\AdminPanel.bundle.scp.css
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CopyComplete
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\refint\AdminPanel.dll
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.pdb
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\AdminPanel\AdminPanel\obj\Debug\net6.0\ref\AdminPanel.dll
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.AssemblyReference.cache
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfoInputs.cache
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfo.cs
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CoreCompileInputs.cache
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.MvcApplicationPartsAssemblyInfo.cache
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cache
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.RazorAssemblyInfo.cs
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.dll
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\refint\AdminPanel.dll
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.pdb
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\appsettings.Development.json
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\appsettings.json
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\AdminPanel.staticwebassets.runtime.json
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\AdminPanel.exe
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\AdminPanel.deps.json
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\AdminPanel.runtimeconfig.json
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\AdminPanel.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\AdminPanel.pdb
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Humanizer.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\MailKit.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\MimeKit.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\MySqlConnector.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\project\CO-Delopment\AdminPanel\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\staticwebassets.build.json
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\staticwebassets.development.json
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\scopedcss\bundle\AdminPanel.styles.css
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\scopedcss\projectbundle\AdminPanel.bundle.scp.css
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CopyComplete
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\AdminPanel.genruntimeconfig.cache
+E:\project\CO-Delopment\AdminPanel\obj\Debug\net6.0\ref\AdminPanel.dll

@@ -1,0 +1,121 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations222\**" />
+    <Content Remove="Migrations222\**" />
+    <EmbeddedResource Remove="Migrations222\**" />
+    <None Remove="Migrations222\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Teacher\CreateTeacher.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\locales-all.js" />
+    <None Include="wwwroot\lib\locales-all.min.js" />
+    <None Include="wwwroot\lib\locales\af.js" />
+    <None Include="wwwroot\lib\locales\ar-dz.js" />
+    <None Include="wwwroot\lib\locales\ar-kw.js" />
+    <None Include="wwwroot\lib\locales\ar-ly.js" />
+    <None Include="wwwroot\lib\locales\ar-ma.js" />
+    <None Include="wwwroot\lib\locales\ar-sa.js" />
+    <None Include="wwwroot\lib\locales\ar-tn.js" />
+    <None Include="wwwroot\lib\locales\ar.js" />
+    <None Include="wwwroot\lib\locales\az.js" />
+    <None Include="wwwroot\lib\locales\bg.js" />
+    <None Include="wwwroot\lib\locales\bn.js" />
+    <None Include="wwwroot\lib\locales\bs.js" />
+    <None Include="wwwroot\lib\locales\ca.js" />
+    <None Include="wwwroot\lib\locales\cs.js" />
+    <None Include="wwwroot\lib\locales\cy.js" />
+    <None Include="wwwroot\lib\locales\da.js" />
+    <None Include="wwwroot\lib\locales\de-at.js" />
+    <None Include="wwwroot\lib\locales\de.js" />
+    <None Include="wwwroot\lib\locales\el.js" />
+    <None Include="wwwroot\lib\locales\en-au.js" />
+    <None Include="wwwroot\lib\locales\en-gb.js" />
+    <None Include="wwwroot\lib\locales\en-nz.js" />
+    <None Include="wwwroot\lib\locales\eo.js" />
+    <None Include="wwwroot\lib\locales\es-us.js" />
+    <None Include="wwwroot\lib\locales\es.js" />
+    <None Include="wwwroot\lib\locales\et.js" />
+    <None Include="wwwroot\lib\locales\eu.js" />
+    <None Include="wwwroot\lib\locales\fa.js" />
+    <None Include="wwwroot\lib\locales\fi.js" />
+    <None Include="wwwroot\lib\locales\fr-ca.js" />
+    <None Include="wwwroot\lib\locales\fr-ch.js" />
+    <None Include="wwwroot\lib\locales\fr.js" />
+    <None Include="wwwroot\lib\locales\gl.js" />
+    <None Include="wwwroot\lib\locales\he.js" />
+    <None Include="wwwroot\lib\locales\hi.js" />
+    <None Include="wwwroot\lib\locales\hr.js" />
+    <None Include="wwwroot\lib\locales\hu.js" />
+    <None Include="wwwroot\lib\locales\hy-am.js" />
+    <None Include="wwwroot\lib\locales\id.js" />
+    <None Include="wwwroot\lib\locales\is.js" />
+    <None Include="wwwroot\lib\locales\it.js" />
+    <None Include="wwwroot\lib\locales\ja.js" />
+    <None Include="wwwroot\lib\locales\ka.js" />
+    <None Include="wwwroot\lib\locales\kk.js" />
+    <None Include="wwwroot\lib\locales\km.js" />
+    <None Include="wwwroot\lib\locales\ko.js" />
+    <None Include="wwwroot\lib\locales\ku.js" />
+    <None Include="wwwroot\lib\locales\lb.js" />
+    <None Include="wwwroot\lib\locales\lt.js" />
+    <None Include="wwwroot\lib\locales\lv.js" />
+    <None Include="wwwroot\lib\locales\mk.js" />
+    <None Include="wwwroot\lib\locales\ms.js" />
+    <None Include="wwwroot\lib\locales\nb.js" />
+    <None Include="wwwroot\lib\locales\ne.js" />
+    <None Include="wwwroot\lib\locales\nl.js" />
+    <None Include="wwwroot\lib\locales\nn.js" />
+    <None Include="wwwroot\lib\locales\pl.js" />
+    <None Include="wwwroot\lib\locales\pt-br.js" />
+    <None Include="wwwroot\lib\locales\pt.js" />
+    <None Include="wwwroot\lib\locales\ro.js" />
+    <None Include="wwwroot\lib\locales\ru.js" />
+    <None Include="wwwroot\lib\locales\si-lk.js" />
+    <None Include="wwwroot\lib\locales\sk.js" />
+    <None Include="wwwroot\lib\locales\sl.js" />
+    <None Include="wwwroot\lib\locales\sm.js" />
+    <None Include="wwwroot\lib\locales\sq.js" />
+    <None Include="wwwroot\lib\locales\sr-cyrl.js" />
+    <None Include="wwwroot\lib\locales\sr.js" />
+    <None Include="wwwroot\lib\locales\sv.js" />
+    <None Include="wwwroot\lib\locales\ta-in.js" />
+    <None Include="wwwroot\lib\locales\th.js" />
+    <None Include="wwwroot\lib\locales\tr.js" />
+    <None Include="wwwroot\lib\locales\ug.js" />
+    <None Include="wwwroot\lib\locales\uk.js" />
+    <None Include="wwwroot\lib\locales\uz.js" />
+    <None Include="wwwroot\lib\locales\vi.js" />
+    <None Include="wwwroot\lib\locales\zh-cn.js" />
+    <None Include="wwwroot\lib\locales\zh-tw.js" />
+    <None Include="wwwroot\lib\main.js" />
+    <None Include="wwwroot\lib\main.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="3.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <!--<PackageReference Include="MySql.EntityFrameworkCore" Version="6.0.7" />-->
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+  </ItemGroup>
+
+</Project>

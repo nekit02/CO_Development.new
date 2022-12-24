@@ -1,0 +1,18 @@
+﻿<h2>Создание новости</h2>
+
+<form asp-action="Create" asp-controller="News" method="post" enctype="multipart/form-data">
+    <label for="nameNews">Наименование новости</label>
+    <input type="text" id="nameNews" name="newsName"/>
+    
+    <label for="descriptionNews">Описание новости</label>
+    <input type="text" id="descriptionNews" name="newsDescription"/>
+
+    <input type="file" name="uploadedFiles" multiple/>
+    <div>
+        <input type="submit" value="Save" />
+        
+  </div>
+
+
+
+</form>

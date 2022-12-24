@@ -1,0 +1,42 @@
+﻿
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <link href='~/lib/main.css' rel='stylesheet' />
+    <script src='~/lib/main.js'></script>
+    <script>
+
+document.addEventListener('DOMContentLoaded', function () {
+            var calendarEl = document.getElementById('calendar');
+            var calendar = new FullCalendar.Calendar(calendarEl, {
+                initialView: 'dayGridMonth',
+                selectable: true,
+                dateClick: function(info){
+                    var dateEvents = $("#dateEvent").val(info.dateStr)
+                    var nameEvents = $("#nameEvent").val()
+                },
+                select: function(info){
+                    alert('clicked:' + info.dateStr)
+                }
+            });
+            calendar.render();
+
+            var myVar = $(".fc-daygrid-day-frame");
+            console.log(myVar);
+
+
+        });
+
+    </script>
+  </head>
+  <body>
+      <form asp-action="Create" asp-controller="Calender" method="post">
+          <label for="nameEvent">EVENT NAME</label>
+          <input type="text" name="nameEvent" id="nameEvent" />
+               <input type="text" name="nameEvent" id="nameEvent" />
+                    <input type="submit" />
+      </form>
+    <div id='calendar'></div>
+  </body>
+</html>
