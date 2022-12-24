@@ -31,17 +31,30 @@ namespace AdminPanel.Controllers
             return View(listTeachers);
         }
 
+         [HttpPost]
         public IActionResult DeleteTeacher([FromForm] Teachers teachers)
         {
             //Получить айди новости для удаления
             TeacherService.DeleteTeachers(teachers);
             return RedirectToAction("IndexTeacher");
         }
-        public IActionResult Edit([FromForm] Teachers teacher)
+
+        public IActionResult EditTeacher(int teacherId)
         {
-            TeacherService.Edit(teacher);
-            return RedirectToAction("Index");
+            //получить из сервиса 1 новость по айди
+            var OneTeacher = TeacherService.GetDetails(teacherId);
+            //передать во вьюшку
+            return View(OneTeacher);
         }
+
+        [HttpPost]
+        public IActionResult EditTeacher([FromForm] Teachers teachers)
+        {
+            TeacherService.Edit(teachers);
+            return RedirectToAction("IndexTeacher");
+        }
+    }
+
         [HttpPost]
         public IActionResult CreateTeacher(string teacherName, string teacherLessons,int teacherworkExp,string Teacherdescription, IFormFile uploadedFile)
         {
@@ -70,4 +83,4 @@ namespace AdminPanel.Controllers
 
 
     }
-}
+
